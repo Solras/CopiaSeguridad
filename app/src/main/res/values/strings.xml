@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Copia Seguridad</string>
+
+    <string name="label_main">Copia Seguridad</string>
+    <string name="label_edit">Editar contacto</string>
+    <string name="label_add">Añadir contacto</string>
+    <string name="label_asc">Orden A-Z</string>
+    <string name="label_desc">Orden Z-A</string>
+    <string name="label_guardado">Contacto guardado</string>
+    <string name="label_sinc_manual">Sincronizacion realizada</string>
+    <string name="label_sinc_auto">La sincronizacion ya es automatica</string>
+    <string name="label_fultima">Fecha de la ultima sincronizacion: </string>
+
+    <string name="menu_asc">Ordenar A-Z</string>
+    <string name="menu_desc">Ordenar Z-A</string>
+    <string name="menu_add">Añadir contacto</string>
+    <string name="menu_sinc">Sincronizar</string>
+    <string name="menu_tiposinc">Cambiar tipo de sincronizacion</string>
+    <string name="menu_act">Actualizar</string>
+    <string name="menu_infoSinc">Informacion de sincronizacion</string>
+
+    <string name="menu_editar">Editar</string>
+    <string name="menu_eliminar">Eliminar</string>
+
+    <string name="add_numero">Mas numeros</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="numero">Numero</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+
+</resources>
